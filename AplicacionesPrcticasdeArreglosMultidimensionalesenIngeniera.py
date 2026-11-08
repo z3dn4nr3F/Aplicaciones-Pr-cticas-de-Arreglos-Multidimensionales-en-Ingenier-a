@@ -3,6 +3,7 @@ Título: Resolución de Problemas de Ingeniería con Arreglos Multidimensionales
 Autor: Estudiante de Ingeniería / Sistemas
 Descripción: Implementación en Python de los 5 problemas prácticos solicitados,
 utilizando matrices y tensores con NumPy, optimizado y libre de errores de linter.
+Autor: SEBASTIAN FERNANDEZ
 """
 
 import numpy as np
